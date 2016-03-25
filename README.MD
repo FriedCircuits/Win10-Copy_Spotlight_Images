@@ -2,7 +2,11 @@ Windows 10 Copy Spotlight
 ======================================
 
 
-Copy's Windows 10 spotlight images used for the lockscreen to a folder on the desktop of the current logged in user.
+Copy's Windows 10 spotlight images used for the lockscreen to a folder on the desktop of the current logged in user. 
+
+Default folder is Desktop\Spotlight.
+
+Can be changed by editting the $dest variable.
 
 Version: 1.0
 
